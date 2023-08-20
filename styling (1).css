@@ -1,0 +1,135 @@
+h1{
+    font-family: Georgia;
+    color: #A9BDFC;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.search_button{
+    cursor: pointer;
+}
+.dropdowntop5{
+    font-family: Georgia;
+    display: inline-block;
+    position: relative;
+    margin-top: 80px;
+    font-size: 30px;
+}
+
+.top5list{
+    font-family:  Courier;
+    display: none;
+    background-color: #A9BDFC ;
+    width: 500px;
+    font-size:25px;
+    scroll-padding-top: 50px;
+
+}
+
+.dropdowntop5:hover{
+    cursor:pointer;
+}
+.dropdowntop5:hover .top5list{
+    display:block;
+}
+
+
+#description{
+    font-family: Georgia;
+    background-color: #cfa8e5;
+    height: 300px;
+    text-align: center;
+    border-style:dotted;
+}
+
+#card{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    background-color: #A9BDFC;
+    height: 280px;
+    width: 450px;
+    margin-left: 415px;
+    text-align: center;
+    border: 20px solid gainsboro;
+    padding-bottom: 40px;;
+
+}
+
+
+
+#card:hover {
+    background-color:beige;
+}
+
+#picture{
+
+    margin-left: 500px;
+    width: 50%;
+}
+
+
+#seetop5{
+    font-size: 35px;
+}
+
+
+
+.mytop5shows{
+    font-size: 35px;
+    padding-bottom: 10%;
+}
+
+.top5showslist{
+    font-size:20px;
+}
+.top5showslist{
+    font-family:  Courier;
+    display: none;
+    background-color: #A9BDFC ;
+    width: 500px;
+}
+
+
+
+
+
+.github-btn{
+    background-color: palevioletred;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size:15px;
+    border-radius: 12px;
+    border: 3px solid palevioletred;
+    height:50px;
+    width:130px;
+}
+
+.github-btn:hover{
+    cursor: pointer;
+    background-color: beige;
+    box-shadow: 5px 5px 5px #C2C2C2;
+}
+
+.insta-btn{
+    background-color: palevioletred;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size:15px;
+    border-radius: 12px;
+    border: 3px solid palevioletred;
+    height:50px;
+    width:130px;
+}
+
+.insta-btn:hover{
+    cursor: pointer;
+    background-color: beige;
+    box-shadow: 5px 5px 5px #C2C2C2;
+}
+
+
+
+#homepage{
+    background-color: azure;
+}
